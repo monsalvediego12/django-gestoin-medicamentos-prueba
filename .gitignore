@@ -1,1 +1,36 @@
-/venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.sqlite3
+*.env
+
+# Log files
+*.log
+*.log.*
+
+# Media files
+media/
+
+# Build artifacts
+build/
+dist/
+
+# Virtual environment
+venv/
+
+# IDE settings
+.idea/
+
+# Compiled Python modules
+*.pyd
+*.pyo
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
