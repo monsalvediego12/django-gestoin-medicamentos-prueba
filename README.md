@@ -39,13 +39,9 @@ GET
 
 http://localhost:8000/api/q_1/
 
-- No terminado
+http://localhost:8000/api/q_2/ 
 
- http://localhost:8000/api/q_2/ 
-
-- No terminado
-
- http://localhost:8000/api/q_3/
+http://localhost:8000/api/q_3/
 
 http://localhost:8000/api/q_4/
 
